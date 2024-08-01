@@ -4,139 +4,139 @@
         "id": 1,
         "category": "Refrescante",
         "detail": "Jugo de fresa natural, refrescante y lleno de vitaminas.",
-        "img": "https://picsum.photos/200/300?random=1"
+        "img": "/img/fresa.jpeg"
     },
     {
         "name": "Limon",
         "id": 2,
         "category": "Naturales",
         "detail": "Jugo de limón fresco, perfecto para un día caluroso.",
-        "img": "https://picsum.photos/200/300?random=2"
+        "img": "/img/limon.jpeg"
     },
     {
         "name": "Piña",
         "id": 3,
         "category": "Refrescante",
         "detail": "Jugo de piña tropical, ideal para revitalizarse.",
-        "img": "https://picsum.photos/200/300?random=3"
+        "img": "/img/piña.jpeg"
     },
     {
         "name": "Naranja",
         "id": 4,
         "category": "Naturales",
         "detail": "Jugo de naranja natural, una fuente rica de vitamina C.",
-        "img": "https://picsum.photos/200/300?random=4"
+        "img": "/img/naranja.jpeg"
     },
     {
         "name": "Manzana",
         "id": 5,
         "category": "Frutas",
         "detail": "Jugo de manzana dulce, perfecto para cualquier ocasión.",
-        "img": "https://picsum.photos/200/300?random=5"
+        "img": "/img/manzana.jpeg"
     },
     {
         "name": "Sandía",
         "id": 6,
         "category": "Refrescante",
         "detail": "Jugo de sandía, increíblemente refrescante y dulce.",
-        "img": "https://picsum.photos/200/300?random=6"
+        "img": "/img/sandia.jpeg"
     },
     {
         "name": "Mango",
         "id": 7,
         "category": "Exótico",
         "detail": "Jugo de mango tropical, lleno de sabor y nutrición.",
-        "img": "https://picsum.photos/200/300?random=7"
+        "img": "/img/mango.jpeg"
     },
     {
         "name": "Uva",
         "id": 8,
         "category": "Frutas",
         "detail": "Jugo de uva, dulce y perfecto para niños y adultos.",
-        "img": "https://picsum.photos/200/300?random=8"
+        "img": "/img/uva.jpeg"
     },
     {
         "name": "Cereza",
         "id": 9,
         "category": "Frutas",
         "detail": "Jugo de cereza, lleno de antioxidantes y sabor.",
-        "img": "https://picsum.photos/200/300?random=9"
+        "img": "/img/cereza.jpeg"
     },
     {
         "name": "Pera",
         "id": 10,
         "category": "Frutas",
         "detail": "Jugo de pera, suave y delicioso para cualquier hora del día.",
-        "img": "https://picsum.photos/200/300?random=10"
+        "img": "/img/pera.jpeg"
     },
     {
         "name": "Melón",
         "id": 11,
         "category": "Refrescante",
         "detail": "Jugo de melón, refrescante y perfecto para el verano.",
-        "img": "https://picsum.photos/200/300?random=11"
+        "img": "/img/melon.jpeg"
     },
     {
         "name": "Frambuesa",
         "id": 12,
         "category": "Frutas",
         "detail": "Jugo de frambuesa, dulce y lleno de antioxidantes.",
-        "img": "https://picsum.photos/200/300?random=12"
+        "img": "/img/frambuesa.jpeg"
     },
     {
         "name": "Arándano",
         "id": 13,
         "category": "Frutas",
         "detail": "Jugo de arándano, perfecto para una dieta saludable.",
-        "img": "https://picsum.photos/200/300?random=13"
+        "img": "/img/arandano.jpeg"
     },
     {
         "name": "Kiwi",
         "id": 14,
         "category": "Exótico",
         "detail": "Jugo de kiwi, exótico y lleno de vitamina C.",
-        "img": "https://picsum.photos/200/300?random=14"
+        "img": "/img/kiwi.jpeg"
     },
     {
         "name": "Plátano",
         "id": 15,
         "category": "Frutas",
         "detail": "Jugo de plátano, cremoso y lleno de potasio.",
-        "img": "https://picsum.photos/200/300?random=15"
+        "img": "/img/platano.jpeg"
     },
     {
         "name": "Papaya",
         "id": 16,
         "category": "Exótico",
         "detail": "Jugo de papaya, lleno de enzimas beneficiosas para la digestión.",
-        "img": "https://picsum.photos/200/300?random=16"
+        "img": "/img/papaya.jpeg"
     },
     {
         "name": "Higo",
         "id": 17,
         "category": "Frutas",
         "detail": "Jugo de higo, dulce y perfecto para un snack saludable.",
-        "img": "https://picsum.photos/200/300?random=17"
+        "img": "/img/higo.jpeg"
     },
     {
         "name": "Granada",
         "id": 18,
         "category": "Exótico",
         "detail": "Jugo de granada, lleno de antioxidantes y beneficios para la salud.",
-        "img": "https://picsum.photos/200/300?random=18"
+        "img": "/img/granadilla.jpeg"
     },
     {
         "name": "Guayaba",
         "id": 19,
         "category": "Exótico",
         "detail": "Jugo de guayaba, exótico y delicioso, lleno de vitamina C.",
-        "img": "https://picsum.photos/200/300?random=19"
+        "img": "/img/guayaba.jpeg"
     },
     {
         "name": "Coco",
         "id": 20,
         "category": "Exótico",
         "detail": "Jugo de coco, refrescante y perfecto para hidratarse.",
-        "img": "https://picsum.photos/200/300?random=20"
+        "img": "/img/coco.jpeg"
     }
 ]
